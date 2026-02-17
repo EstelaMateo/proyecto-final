@@ -1,5 +1,11 @@
 PROYECTP
 
+OBSERVACIONES: TRABAJAR EN LATEX
+
+==B==
+En cuanto a derrames de hidrocarburos se refiere, analizamos las posibles respuestas a estos desastres, se opta por el uso de dispersantes; pues presenta una respuesta favorablle, y de ahi surge la duda ¿que lineamientos seguir para la eleccion del dispersante?
+En el dessastre de 2010 del Deepwater Horizon se aplicaron 10,000 galones por día de Corexit EC9500A (que se asemeja a una mezcla de aceite mineral, líquido limpiaparabrisas y detergente lavavajillas doméstico), aunque no fue hasta 2017 que se hizo el estudio en laboratorio de lo que 
+
 ##Consideraciones
 
 El uso de dispersantes químicos en eventos de derrame de hidrocarburos constituye una medida de respuesta que modifica deliberadamente el destino ambiental del contaminante. Estos agentes actúan reduciendo la tensión interfacial entre el petróleo y el agua, favoreciendo la formación de microgotas que se incorporan en la columna de agua y aumentan la superficie disponible para biodegradación.
