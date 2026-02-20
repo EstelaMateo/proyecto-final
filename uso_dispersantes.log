@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.17)  19 FEB 2026 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.17)  19 FEB 2026 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -105,24 +105,25 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 ) (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count291
-) (./uso_dispersantes.aux)
+)
+No file uso_dispersantes.aux.
 \openout1 = `uso_dispersantes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
- (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count292
 \scratchdimen=\dimen169
@@ -170,19 +171,30 @@ LaTeX Font Info:    ... okay on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:23: LaTeX Error: There's no line here to end.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \hl
+        {¿Cuáles son los 4 dispersantes del NCP Product Schedule?}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:44: Undefined control sequence.
-l.44 ...: Feb. 15, 2026. [Online]. Available: \url
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:45: Undefined control sequence.
+l.45 ...d Feb. 15, 2026. [Online]. Available: \url
+                                                  {https://www.ecfr.gov/curr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:47: Undefined control sequence.
+l.47 ...: Feb. 15, 2026. [Online]. Available: \url
                                                   {https://www.epa.gov/emerg...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -190,28 +202,28 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:44: You can't use `macro parameter character #' in horizontal mode.
-l.44 ...e-products-available-use-during-oil-spill#
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:47: You can't use `macro parameter character #' in horizontal mode.
+l.47 ...e-products-available-use-during-oil-spill#
                                                   product_summaries}
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:44: Missing $ inserted.
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:47: Missing $ inserted.
 <inserted text> 
                 $
-l.44 ...ts-available-use-during-oil-spill#product_
+l.47 ...ts-available-use-during-oil-spill#product_
                                                   summaries}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 44.
+(Font)              <7> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
-c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:44: Extra }, or forgotten $.
-l.44 ...le-use-during-oil-spill#product_summaries}
+(Font)              <5> on input line 47.
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:47: Extra }, or forgotten $.
+l.47 ...le-use-during-oil-spill#product_summaries}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -219,22 +231,13 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:45: Missing $ inserted.
+c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:48: Missing $ inserted.
 <inserted text> 
                 $
-l.45 
+l.48 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
-
-c:/Users/UNAM/Documents/proyecto-final/uso_dispersantes.tex:46: Undefined control sequence.
-l.46 ...d Feb. 15, 2026. [Online]. Available: \url
-                                                  {https://www.ecfr.gov/curr...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 [1
 
@@ -246,21 +249,21 @@ L3 programming layer <2026-01-19>
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 44 ({)
+### simple group (level 1) entered at line 47 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2405 strings out of 467532
- 36809 string characters out of 5423647
- 468543 words of memory out of 5000000
- 31327 multiletter control sequences out of 15000+600000
- 632423 words of font info for 56 fonts, out of 8000000 for 9000
+ 2377 strings out of 467532
+ 36395 string characters out of 5423647
+ 471550 words of memory out of 5000000
+ 31309 multiletter control sequences out of 15000+600000
+ 629388 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,65p,575b,201s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on uso_dispersantes.pdf (1 page, 104446 bytes).
+ 55i,5n,65p,613b,189s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on uso_dispersantes.pdf (1 page, 84776 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
